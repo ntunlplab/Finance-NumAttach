@@ -23,7 +23,7 @@ The NumAttach dataset is consisted of "tweet", "target_num", "target_cashtag", "
 }
 ```
 # Download
-Please write us an email with the agreement. Click here to download the agreement of NumAttach.
+Please write us an email with the agreement. Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/NumAttach/NumAttach_agreement.pdf) to download the agreement of NumAttach.
 
 Email Address: cjchen@nlg.csie.ntu.edu.tw
 
